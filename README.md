@@ -1,9 +1,4 @@
-# VR Major Project Report: Multimodal Visual Question Answering 
-
-### Team Members:
-1. **Aryan Rastogi    --  MT2024026**
-2. **Dhruva Sharma  --  MT2024042**
-3. **Akshat Abhishek Lal  --  MT2024015**
+# Multimodal Visual Question Answering 
 
 This report presents a comprehensive account of the design, implementation, and evaluation of a Visual Question Answering (VQA) system, developed as part of the AIM825 Course Project. The project leverages the Amazon Berkeley Objects (ABO) dataset (small variant) and state-of-the-art AI models such as Google's Gemini, mPLUG-Owl, and BLIP-2. All work was conducted in strict adherence to project guidelines, including compute and model size constraints, and is thoroughly documented in the accompanying Jupyter notebooks.
 
